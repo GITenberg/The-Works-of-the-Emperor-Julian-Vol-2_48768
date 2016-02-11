@@ -1,0 +1,28 @@
+_repo: The-Works-of-the-Emperor-Julian-Vol-2_48768
+contributor:
+  translator:
+    agent_name: Wright, Wilmer Cave
+    birthdate: 1865
+    deathdate: 1951
+    gutenberg_agent_id: '44978'
+    url: http://www.gutenberg.org/2009/agents/44978
+creator:
+  author:
+    agent_name: Julian, Emperor of Rome
+    alias: Julianus, Flavius Claudius
+    birthdate: 331
+    deathdate: 363
+    gutenberg_agent_id: '44961'
+    url: http://www.gutenberg.org/2009/agents/44961
+    wikipedia: http://en.wikipedia.org/wiki/Julian_%28emperor%29
+description: ''
+gutenberg_issued: '2015-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48768'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: The Works of the Emperor Julian, Vol. 2
+url: http://www.gutenberg.org/ebooks/48768
